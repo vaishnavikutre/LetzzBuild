@@ -1,0 +1,8 @@
+body{
+    background-image:url('./1.jpg');
+    background-size: cover;
+}
+
+.middle{
+    background-image:url('./3.jpg');
+}
